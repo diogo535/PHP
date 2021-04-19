@@ -1,0 +1,12 @@
+ng new my-app--- Criar App.
+-----------------------------
+ng serve --open -- abrir projecto.
+-----------------------------
+npm install -g @angular/cli- Instalar angular/cli.
+-----------------------------
+ng new angular-tour-of-heroes- criar pasta dentro por exemplo documentos primeira pasta.
+-----------------------------
+
+
+
+
